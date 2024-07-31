@@ -23,8 +23,9 @@ option_as_alt = "Both"
 
 [font]
 # normal.family="Hack Nerd Font Mono"
-normal.family = "JetBrainsMonoNL Nerd Font"
-size = 13
+# normal.family = "JetBrainsMonoNL Nerd Font"
+normal.family = "MesloLGM Nerd Font"
+size = 14
 
 [[hints.enabled]]
 regex = "(ipfs:|ipns:|magnet:|mailto:|gemini:|gopher:|https:|http:|news:|file:|git:|ssh:|ftp:)[^\u0000-\u001F\u007F-\u009F<>\"\\s{-}\\^⟨⟩`]+"
